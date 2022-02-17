@@ -5,4 +5,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunjungheo&show_icons=true&theme=buefy)
 
-![header](https://capsule-render.vercel.app/api?type=Wave&color=auto&height=100&section=footer)
+![header](https://capsule-render.vercel.app/api?type=Wave&color=auto&height=150&section=footer)
