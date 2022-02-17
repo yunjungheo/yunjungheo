@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=윤정&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=신입 프론트엔드 개발자 허윤정 github 입니다.&fontSize=60)
 
 
 
