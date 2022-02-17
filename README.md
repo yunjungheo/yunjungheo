@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=Wave&color=auto&height=300&section=header&text=윤정💻&fontSize=50&rotate=-180)
+![header](https://capsule-render.vercel.app/api?type=Wave&color=auto&height=300&section=header&text=윤정💻&fontSize=50)
 
 
 
