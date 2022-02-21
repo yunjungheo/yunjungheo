@@ -1,12 +1,17 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=timeGradient&height=150&section=header&text=YUNJUNG💻&fontSize=30&desc=lena_heo😺&descAlignY=70)
-  </br>🙋‍♀️</br>
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=timeGradient&height=150&section=header&text=YUNJUNG💻&fontSize=30&desc=lena_heo😺&descAlignY=70)  
+  
+# 🙋‍♀️  
+
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-# 🚀tech stack                                       
+### 🚀tech stack
+
+
+
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
@@ -20,6 +25,6 @@
 </br>
 </br>
 </br>
-## ⚖️stats
+### ⚖️stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunjungheo&show_icons=true&theme=buefy)
 </div>
