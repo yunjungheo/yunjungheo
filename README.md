@@ -4,10 +4,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=timeGradient&height=150&section=header&text=YUNJUNG💻&fontSize=30&desc=lena_heo😺&descAlignY=70)  
   
 # 🙋‍♀️  
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
 ### 🚀tech stack
 
 
