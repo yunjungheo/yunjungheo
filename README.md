@@ -9,6 +9,4 @@
 
 
 
-### ⚖️stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunjungheo&show_icons=true&theme=buefy)
 </div>
